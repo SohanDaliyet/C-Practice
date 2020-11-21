@@ -4,5 +4,7 @@
 
 void main()
 {
-
+    int a,b;
+    printf("Please Enter Two Values : ");
+    scanf("%d %d",&a,&b);
 }
