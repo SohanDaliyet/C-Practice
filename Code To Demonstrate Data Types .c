@@ -4,6 +4,6 @@
 
 void main()
 {
-  int a=32767;
-  printf("%d",a);
+  long int a=32799;
+  printf("%ld",a);
 }
