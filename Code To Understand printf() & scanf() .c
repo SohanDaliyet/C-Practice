@@ -8,5 +8,5 @@ void main()
     printf("Please Enter Two Values : ");
     scanf("%d %d",&a,&b);
     c=a+b;
-    printf("%d",c)
+    printf("%d",c);
 }
