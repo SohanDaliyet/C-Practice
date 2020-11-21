@@ -4,5 +4,7 @@
 
 void main()
 {
-
+    int square,value;
+    printf("\Please Enter A Value : ");
+    scanf("&d",&value);
 }
