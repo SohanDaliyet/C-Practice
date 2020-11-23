@@ -4,5 +4,5 @@
 
 void main()
 {
-
+    float amount,rate,time,interest;
 }
