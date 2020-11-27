@@ -5,6 +5,6 @@
 void main()
 {
     printf("Sohan Daliyet");
-    printf("Profession");
-    printf("Student");
+    printf("\n Profession");
+    printf("\n Student");
 }
