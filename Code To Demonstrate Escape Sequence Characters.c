@@ -4,5 +4,7 @@
 
 void main()
 {
-
+    printf("Sohan Daliyet");
+    printf("Profession");
+    printf("Student");
 }
