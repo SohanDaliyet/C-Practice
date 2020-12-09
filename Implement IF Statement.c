@@ -5,4 +5,6 @@
 void main()
 {
   int x;
+  printf("Please Enter A Value : ");
+  scanf("%d",&x);
 }
