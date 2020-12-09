@@ -10,4 +10,7 @@ void main()
     if(p<40){
         printf("The Student Has Failed!!!");
     }
+    if(p>=40&&p<50){
+        printf("The Student Is Passed With C Grade!!!");
+    }
 }
