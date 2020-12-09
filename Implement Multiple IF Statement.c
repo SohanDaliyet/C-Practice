@@ -7,4 +7,7 @@ void main()
     float p;
     printf("\n Enter The Percentage Of The Student : ");
     scanf("%f",&p);
+    if(p<40){
+        printf("The Student Has Failed!!!");
+    }
 }
