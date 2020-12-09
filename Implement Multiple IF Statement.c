@@ -4,5 +4,6 @@
 
 void main()
 {
-
+    float p;
+    printf("\n Enter The Percentage Of The Student : ");
 }
