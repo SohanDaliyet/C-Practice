@@ -16,4 +16,7 @@ void main()
     if(p>=50&&p<60){
         printf("The Student Is Passed With B Grade!!!");
     }
+    if(p>=50&&p<60){
+        printf("The Student Is Passed With B Grade!!!");
+    }
 }
