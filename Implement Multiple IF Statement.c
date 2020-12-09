@@ -22,4 +22,10 @@ void main()
     if(p>=75&&p<100){
         printf("The Student Is Passed With S Grade!!!");
     }
+    if(p>100||p<0){
+        printf("\aInvalid Input!!!");
+    }
+    if(p>100||p<0){
+        printf("\a Invalid Input!!!");
+    }
 }
