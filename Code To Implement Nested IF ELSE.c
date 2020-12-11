@@ -9,5 +9,7 @@
 void main()
 {
     int a,b,c,s;
+    printf("Please Enter A Value For The First Number : ");
+    scanf("%d",&a);
 
 }
