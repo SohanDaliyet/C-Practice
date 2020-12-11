@@ -15,4 +15,7 @@ void main()
     if(a==b){
         printf("Both The First And Second Number Are Equal !!!");
     }
+    else if(a>b){
+        printf("Your First Number - %d Is Greater!!!\n",a);
+    }
 }
