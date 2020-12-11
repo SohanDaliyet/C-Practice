@@ -24,6 +24,17 @@ void main()
             s=c;
         }
     }
-/* Here we are comparing if 'a' is the smallest or is 'c' the smallest */    
+/* Here we are comparing if 'a' is the smallest or is 'c' the smallest. */    
+    
+
+    else{
+        if(a<c){
+            s=b;
+        }
+        else{
+            s=c;
+        }
+    }
+/*Here we are comparing if 'b' is the smallest or is 'c' the smallest. */    
     
 }
