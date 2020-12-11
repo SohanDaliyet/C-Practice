@@ -10,4 +10,6 @@ void main()
     int a,b;    
     printf("Please Enter A Value For The First Number : ");
     scanf("%d",&a);
+    printf("Please Enter A Value For The Second Number : ");
+    scanf("%d",&b);
 }
