@@ -13,5 +13,7 @@ void main()
     scanf("%d",&a);
     printf("Please Enter A Value For The Second Number : ");
     scanf("%d",&b);
+    printf("Please Enter A Value For The Third Number : ");
+    scanf("%d",&c);
 
 }
