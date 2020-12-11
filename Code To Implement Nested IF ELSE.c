@@ -16,4 +16,14 @@ void main()
     printf("Please Enter A Value For The Third Number : ");
     scanf("%d",&c);
 
+    if(a<b){
+        if(a<c){
+            s=a;
+        }
+        else{
+            s=c;
+        }
+    }
+/* Here we are comparing if 'a' is the smallest or is 'c' the smallest */    
+    
 }
