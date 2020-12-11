@@ -18,4 +18,7 @@ void main()
     else if(a>b){
         printf("Your First Number - %d Is Greater!!!\n",a);
     }
+    else if(a<b){
+        printf("Your Second Number - %d Is Greater!!!\n",b);
+    }
 }
