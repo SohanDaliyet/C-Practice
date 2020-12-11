@@ -37,4 +37,7 @@ void main()
     }
 /*Here we are comparing if 'b' is the smallest or is 'c' the smallest. */    
     
+    printf("The Smallest Value Is %d",s);
+    
+    
 }
