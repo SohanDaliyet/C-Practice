@@ -4,6 +4,7 @@
 
 #include<stdio.h>
 #include<conio.h>
+/*conio.h allows you to solve mathematical problems with more ease.*/
 
 void main()
 {
@@ -12,13 +13,17 @@ void main()
     scanf("%d",&a);
     printf("Please Enter A Value For The Second Number : ");
     scanf("%d",&b);
+    
     if(a==b){
         printf("Both The First And Second Number Are Equal !!!");
     }
+    
     else if(a>b){
         printf("Your First Number - %d Is Greater!!!\n",a);
     }
+    
     else if(a<b){
         printf("Your Second Number - %d Is Greater!!!\n",b);
     }
+    
 }
