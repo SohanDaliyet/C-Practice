@@ -8,8 +8,10 @@
 void main()
 {
   int a,b;
+  
   printf("Please Enter The First Number : ");
   scanf("%d",&a);
+  
   printf("Please Enter The Second Number : ");
   scanf("%d",&b);
   
