@@ -5,5 +5,7 @@
 
 void main()
 {
-
+    int i;
+    printf("Please Select A Number 1 Or 2 : ");
+    scanf("d",&i);
 }
