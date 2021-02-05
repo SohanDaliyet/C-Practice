@@ -5,5 +5,12 @@
 
 void main()
 {
+    int x;
+    scanf("%d",&x);
+    while(x<=20)
+    {
+        printf("\n%d",x);
+        x++;
+    }
 
 }
