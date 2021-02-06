@@ -5,5 +5,6 @@
 
 void main()
 {
-
+    int a,b,x;
+    x = 1;
 }
