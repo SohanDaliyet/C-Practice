@@ -12,5 +12,6 @@ void main()
     printf("Enter Time In Year : ");
     scanf("%f",&time);
     interest=amount*time*rate/100;
+    //printf("The Simple Interest is : ",amount*time*rate/100);
     printf("The Simple Interest Is %f",interest);
 }
