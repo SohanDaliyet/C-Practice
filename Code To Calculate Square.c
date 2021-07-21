@@ -5,7 +5,7 @@
 void main()
 {
     int square,value;
-    printf("\Please Enter A Value : ");
+    printf("\nPlease Enter A Value : ");
     scanf("%d",&value);
     square=value*value;
     printf("\n %d",square);    
