@@ -4,7 +4,7 @@
 
 void main()
 {
-    printf("\n Sohan Daliyet");
+    printf("Sohan Daliyet");
     printf("\n Profession");
     printf("\n Student");
 }
